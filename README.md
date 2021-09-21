@@ -1,8 +1,21 @@
 - 👋 Hi, I’m @amir-rahim
+
+
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
+Programming in Java/Python, Data Science, Data Optimization, and AI/Machine Learning.
+
+- 🌱 I’m currently learning ... 
+
+C++, C, Internet Systems, Software Engineering, and Foundations of Computing.
+
+- 💞️ I’m looking to collaborate on ... 
+
+Programming Projects and Code Reviews for any kind of project, willing to adapt and learn!
+
+- 📫 How to reach me ... 
+
+Through my LinkedIn at https://www.linkedin.com/in/amir-rahim/ my contact details are there and you can directly message me on there!
 
 <!---
 amir-rahim/amir-rahim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
