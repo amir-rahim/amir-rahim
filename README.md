@@ -1,10 +1,16 @@
-- 👋 Hi, I’m Amir Rahim (@amir-rahim) and I am a KCL Student for Computer Science '20-'23.
+- 👋 Hi, I’m Amir Rahim (@amir-rahim) and I am currently King's College London student for BSc Computer Science ('20-'24).
 
 - 👀 I’m interested in ...
-Programming in Java/Python, Data Science, Data Optimization, and AI/Machine Learning.
+Programming in Java, Python, React, Testing, Front-end Development, Data Science, Financial Technology, and Artificial Intelligence.
 
 - 🌱 I’m currently learning ... 
-C++, C, Artificial Intelligence, Software Engineering, and Operating Systems.
+Python, React, Artificial Intelligence, Software Engineering & Architecture, and Software Measurement and Testing.
+
+- 📝 I’m currently doing my dissertation on ... 
+"AI-Enhanced Learning Analytics: Revealing New Insights and Data Visualization for Feedback" - where I am looking at researching and improving the process of Student Feedback, with the aims of making it easier for Lecturers to get actionable insights and easier for Students to give the right feedback
+
+- 🗝️ Recently had industry experience (22'-23') at UBS where I ...
+Did front-end development and maintenance (in React), implemented and improved testing frameworks (using Jest and Selenium), and worked with UX teams for UI upgrade.
 
 - 💞️ I’m looking to collaborate on ... 
 Programming Projects and Code Reviews for any kind of project, willing to adapt and learn!
@@ -12,5 +18,5 @@ Programming Projects and Code Reviews for any kind of project, willing to adapt 
 - 📫 How to reach me ... 
 Through my LinkedIn at https://www.linkedin.com/in/amir-rahim/ my contact details are there and you can directly message me on there!
 
-- 📝 Personal Portfolio ...
+- 💻 Personal Portfolio ...
 Have a look at my personal portfolio at: https://amir-rahim.github.io/
